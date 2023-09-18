@@ -1,0 +1,7 @@
+#!/bin/sh
+apt update && apt install -y nano
+apt install -y gcc
+echo "*****************************************************************************************"
+echo "Votre linux tp systeme est fonctionnel, creez vos tp dans le dossier tpSysteme"
+echo "*****************************************************************************************"
+
